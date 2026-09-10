@@ -1,0 +1,15 @@
+{
+  "name": "WiFi dos Termóstatos",
+  "short_name": "WiFi Termo",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#2a78d6",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
